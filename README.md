@@ -13,3 +13,6 @@ create grid of square divs 16 * 16 960px space
         new grid take same total space
         limit to max 100
     
+create raws loop create one raw at time
+    then create squares in the row
+    
